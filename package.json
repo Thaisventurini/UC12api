@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Thaisventurini/UC12api#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^5.12.9",
     "mongose": "0.0.2-security"
   },
   "devDependencies": {
